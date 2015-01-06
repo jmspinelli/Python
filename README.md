@@ -3,6 +3,8 @@ Python
 
 Interactive Programming in Python
 
+(Run in Chrome or Firefox Browsers; codeskulptor not compatible with Internet Explorer)
+
 Rock-paper-scissors-lizard-Spock
 http://www.codeskulptor.org/#user38_uv9Mg08qgH_12.py
 
