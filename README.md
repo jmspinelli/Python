@@ -15,7 +15,7 @@ Stopwatch
 http://www.codeskulptor.org/#user38_OE73gHtOnOFRBS2_0.py
 
 Pong
-http://www.codeskulptor.org/#user38_1RLKjJCXoj_12.py
+http://www.codeskulptor.org/#user38_1RLKjJCXoj_20.py
 
 Memory
 http://www.codeskulptor.org/#user38_FUF3DVRz52IlZy5_1.py
